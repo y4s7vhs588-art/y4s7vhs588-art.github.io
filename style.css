@@ -3,3 +3,21 @@ body {
   color: white;
   font-family: arial;
 }
+
+header {
+  margin: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
+nav {
+  margin: 10px;
+  text-align: left;
+  font-size: 20px;
+}
+
+section {
+  margin: 10px;
+  text-align: left;
+  font-size: 10px;
+}
